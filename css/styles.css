@@ -983,3 +983,9 @@ p {
   background-color: #4d5ae5;
   fill: #f4f4fd;
 }
+
+@media screen and (min-width: 768px) {
+  .mob-menu {
+    display: none;
+  }
+}
